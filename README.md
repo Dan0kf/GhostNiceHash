@@ -13,14 +13,7 @@ Written in C#, this GUI Miner is using Claymore's Dual Ethereum Miner as it's mi
 - Launches miner hidden inside main process, making it undetectable in some restricted environments (such as remote VM's, or pc's without admin access)
 - Dark mode
 #
-### Downloads
 
-| Version | Download |
-| ------ | ------ |
-| 1.2 | [Download][1.2] |
-| 1.1 | [Download][1.1] |
-| 1.0| [Download][1.0] |
-#
 ### Preview
 ![](https://r.8b.io/192949/images/background1-h_kgclp35n.jpg)
 ![](https://r.8b.io/192949/images/background2-h_kgcm3b2i.jpg)
